@@ -1,3 +1,4 @@
+# https://app.codility.com/demo/results/trainingVX68Y8-UWF/
 def solution(N: int):
     N = "{0:b}".format(N)
     result = 0

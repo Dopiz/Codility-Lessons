@@ -1,3 +1,4 @@
+# https://app.codility.com/demo/results/training99K92Z-BKG/
 def solution(X, Y, D):
     return int((Y - X) / D) + ((Y - X) % D > 0)
 

@@ -1,3 +1,4 @@
+# https://app.codility.com/demo/results/trainingEWC9UF-8AN/
 def solution(A: list, K: int):
     if not A:
         return A

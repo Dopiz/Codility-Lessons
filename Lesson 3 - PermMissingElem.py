@@ -1,3 +1,4 @@
+# https://app.codility.com/demo/results/training7QRDMA-YQB/
 def solution(A):
     return int((1 + len(A) + 1) * (len(A) + 1) / 2) - sum(A)
 

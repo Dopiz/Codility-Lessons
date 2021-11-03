@@ -1,3 +1,4 @@
+# https://app.codility.com/demo/results/trainingY6KTWZ-K7V/
 def solution(A):
     total = sum(A)
     result = float('inf')
